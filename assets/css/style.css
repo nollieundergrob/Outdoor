@@ -1,0 +1,38 @@
+@font-face {
+    font-family:"Poppins";
+    src: url("../font/Poppins-Regular.ttf"),format("truetype");
+}
+@font-face {
+    font-family:"Roboto";
+    src: url("../font/ofont.ru_Roboto.ttf"),format("truetype");
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    overflow-x: hidden;
+    font-family: 'Poppins';
+    font-size: 50px;
+    background-color: #e9e9e9;
+}
+/* Header */
+.header
+{
+    height: 80px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+.container
+{
+    width: 1200px;
+    margin: 0 auto;
+}
+.wrapper_header
+{
+    display: flex;
+    justify-content: space-between;
+}
