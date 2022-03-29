@@ -186,6 +186,293 @@ color: #575445;
 {
     background: url(../assets/img/jpg/s3.png) no-repeat center center / cover;
 }
+.item_circle
+{
+    width: 350px;
+    text-align: center;
+}
+.mb10px
+{
+    margin-bottom: 10px;
+}
+.title_item
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #575445;
+}
+.block_circle
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.title_box
+{
+    text-align: center;
+    width: 600px;
+    margin:  0  auto;
+}
+
+.mb100px
+{
+    margin-bottom: 100px;
+}
+.block_card
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/* Секция 4 */
+.car_disc
+{
+    width: 250px;
+    margin: 0 auto;
+}
+.item_card
+{
+    width: 378px;
+    height: 500px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+/* Секция 5 */
+.sea_wrap
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 600px;
+}
+.menu_sea
+{
+    padding: 0px 20px;
+    width: 700px;
+    height: 50px;
+    background: #292C32;
+border-radius: 16px;
+color: #FFFFFF;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.sea
+{
+    background: url(../img/bg3.png) no-repeat center center / cover;
+}
+.item_sea
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sea_wrap
+{
+
+}
+.text_card
+{
+    padding-top: 40px;
+}
+.c1c
+{
+    background: url(../img/card1.png) no-repeat center center / cover;
+    border-radius: 10px;
+}
+.c2c
+{
+    background: url(../img/card2.png) no-repeat center center / cover;
+    border-radius: 10px;
+}
+.c3c
+{
+    background: url(../img/card3.png) no-repeat center center / cover;
+    border-radius: 10px;
+}
+.c4c
+{
+    background: url(../img/card4.png) no-repeat center center / cover;
+    border-radius: 10px;
+}
+.c5c
+{
+    background: url(../img/card5.png) no-repeat center center / cover;
+    border-radius: 10px;
+}
+.c6c
+{
+    background: url(../img/card6.png) no-repeat center center / cover;
+    border-radius: 10px;
+}
+.card_title
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height, or 120% */
+
+color: #575445;
+}
+.mt40px
+{
+    margin-top: 40px;
+}
+/* Секция 6 */
+.s6
+{
+    background: url(../img/bg4.png) no-repeat center center / cover;
+    height: 400px;
+}
+.subsub-text
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 140% */
+    
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: #FAFAFC;
+}
+.wht_button
+{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 149% */
+text-align: center;
+padding: 10px 18px;
+background-color: #ffff;
+border-radius: 6px;
+color: #575445;
+margin-top: 20px;
+text-decoration: none;
+}
+.content
+{
+    margin: 0   auto;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.disc_grenn
+{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* or 120% */
+
+text-align: center;
+
+color: #FAFAFC;
+
+}
+.yellow_logo
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #E6B939;
+}
+/* Секция 7 */
+.title_sector
+{
+    width: 550px;
+}
+.dcard
+{
+    display: flex;
+    justify-content: space-between;
+}
+.name_pers
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 140% */
+
+
+color: #575445;
+}
+.dcard_text
+{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+width: 465px;
+
+color: #575445;
+}
+.person_card
+{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+}
+.peson_info
+{
+    padding-left: 15px;
+}
+.date{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 140% */
+
+
+color: #6F7278;
+}
+.lower_row
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*  Секция 9 */
+.prelast
+{
+    display: flex;
+    justify-content: space-between  ;
+    align-items: center;
+}
+.txt_box
+{
+    width: 400px;
+}
 /* Footer */
 .central
 {
@@ -194,7 +481,8 @@ color: #575445;
 }
 .footer
 {
-    background: #292C32;
+    background: #575445;
+border-radius: 0px;
 }
 .flex_center
 {
